@@ -36,6 +36,7 @@ timelapse data currently from 1984 - 2022
 can see real time changes
 can be used as alerting system for emergency services and locals for safety predictions
 
+"Linz" another potential data source for imaging 
 
 - website
   displayed embedded location
